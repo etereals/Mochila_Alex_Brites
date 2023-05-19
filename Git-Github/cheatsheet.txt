@@ -1,0 +1,9 @@
+CHEATSHEET GIT GITHUB
+git remote add / git clone -> clonar el repositorio y anadir origen para empezar a trabajar con el mismo y estar sincronizado al repo de GitHub.
+git init -> inicializar repositorio en la ruta que me encuentro.
+git add . -> agregar elementos al repo
+git commit -m '' -> commits, mensaje sobre los cambios
+git log -> chequea los logs
+git push -u origin main -> pusheamos cambios
+git pull -> bajamos cambios
+git branch -> varias funciones, moverme entre ramas, crear rama, chequear ramas, renombrar, etc.
